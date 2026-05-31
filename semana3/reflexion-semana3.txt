@@ -1,0 +1,8 @@
+Git es importante porque permite guardar el historial de cambios de un proyecto.
+Ayuda a saber qué se modificó y cuándo.
+Permite recuperar versiones anteriores si hay errores.
+Facilita el trabajo en equipo.
+Evita la pérdida de información.
+Hace el desarrollo más organizado.
+Mejora la trazabilidad del proyecto.
+Es una herramienta fundamental en programación.
