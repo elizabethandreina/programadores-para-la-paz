@@ -1,0 +1,8 @@
+Es importante que las plataformas tecnológicas reciban información estructurada porque permite organizar los datos de forma clara y eficiente.
+El uso de JSON facilita la comunicación entre cliente y servidor.
+Express permite procesar los datos enviados mediante req.body.
+Esto ayuda a crear aplicaciones más ordenadas.
+Los ciudadanos pueden reportar problemas fácilmente.
+Las autoridades pueden responder más rápido.
+La información se procesa automáticamente.
+Esto mejora los servicios en la comunidad.

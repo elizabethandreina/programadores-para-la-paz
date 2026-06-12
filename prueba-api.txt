@@ -1,0 +1,10 @@
+Se realizó una petición POST a la ruta /registro.
+El servidor recibió correctamente los datos enviados en formato JSON.
+La respuesta confirmó la recepción de la información mediante req.body.
+
+Ejemplo de respuesta:
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
