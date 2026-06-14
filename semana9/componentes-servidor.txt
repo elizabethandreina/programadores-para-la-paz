@@ -1,0 +1,5 @@
+Sistema operativo: ejecuta el servidor.
+Node.js: permite correr JavaScript en backend.
+server.js: archivo principal del servidor.
+Puerto: punto de acceso 3000.
+Logs: mensajes en la terminal.

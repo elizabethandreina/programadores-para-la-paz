@@ -1,0 +1,8 @@
+Las plataformas comunitarias necesitan servidores estables.
+Un servidor permite acceso constante a los servicios.
+Si el servidor falla, la plataforma deja de funcionar.
+Los logs ayudan a detectar errores.
+La seguridad protege la información de los usuarios.
+La estabilidad es clave para la confianza.
+Un sistema bien configurado mejora la experiencia.
+Por eso los servidores son fundamentales.
