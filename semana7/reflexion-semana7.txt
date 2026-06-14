@@ -1,0 +1,8 @@
+Las plataformas de reportes comunitarios son importantes porque permiten a los ciudadanos informar problemas de su entorno de manera rápida.
+Esto ayuda a las autoridades a identificar fallas y tomar decisiones más eficientes.
+También mejora la comunicación entre la comunidad y las instituciones.
+Además, fomenta la participación ciudadana y la responsabilidad social.
+El uso de tecnologías como APIs facilita la organización de la información.
+Estos sistemas permiten almacenar y consultar datos de forma sencilla.
+Aunque en este caso los datos se guardan en memoria, en sistemas reales se usan bases de datos.
+Esto hace posible tener un control más completo y seguro de los reportes.

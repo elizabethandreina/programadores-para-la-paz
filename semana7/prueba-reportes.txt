@@ -1,0 +1,4 @@
+Al consultar la ruta GET /reportes, el sistema muestra todos los reportes almacenados en el array.
+Después de realizar peticiones POST, los reportes se van agregando a la lista.
+En este caso, al hacer dos registros, el sistema devuelve dos objetos con sus respectivos datos.
+La información se mantiene en memoria mientras el servidor está activo.
