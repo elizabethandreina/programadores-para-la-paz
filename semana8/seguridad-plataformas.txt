@@ -1,0 +1,5 @@
+1. No compartir contraseñas
+2. Usar HTTPS
+3. Proteger datos personales
+4. Controlar accesos
+5. Registrar actividad del sistema
