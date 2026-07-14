@@ -1,0 +1,11 @@
+El login es un sistema que permite identificar a un usuario antes de darle acceso a una aplicación.
+
+La autenticación ayuda a proteger información privada y controlar las funciones disponibles para cada usuario.
+
+Algunas rutas deben estar protegidas porque pueden contener información interna o acciones importantes del sistema.
+
+No todas las personas deben tener acceso a modificar información.
+
+No se deben mostrar públicamente contraseñas, documentos de identidad, teléfonos, direcciones, tokens o claves de API.
+
+La protección de datos permite generar confianza en la comunidad.
