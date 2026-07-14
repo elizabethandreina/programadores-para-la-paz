@@ -1,0 +1,22 @@
+Flujo del sistema Petición en 3 Clics:
+
+Paso 1:
+Un ciudadano crea una causa comunitaria ingresando información como título, descripción y fecha.
+
+Paso 2:
+La causa creada se almacena en una base de datos para mantener organizada la información.
+
+Paso 3:
+Otros ciudadanos pueden ingresar a la plataforma y registrar su apoyo a la causa.
+
+Paso 4:
+El sistema cuenta automáticamente la cantidad de apoyos registrados para mostrar el respaldo de la comunidad.
+
+Paso 5:
+La plataforma genera un documento PDF con la información de la causa y los apoyos obtenidos.
+
+Paso 6:
+El documento generado puede ser compartido con instituciones o entidades responsables para fortalecer la exigibilidad democrática.
+
+Paso 7:
+El sistema permite que la comunidad tenga una herramienta organizada para participar y presentar sus solicitudes.
